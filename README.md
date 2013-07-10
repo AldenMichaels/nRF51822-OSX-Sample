@@ -5,6 +5,11 @@ You need to install a GCC toolchain (I use CodeSourcery).  I have it in my home 
 
 This project is just from Nordic's sample ble hrs.  There are some warnings that can be fixed by proper casting.
 
+NOTE:
+-----
+
+You will need to download and copy the Nordic Softdevice to the lib directory and modify the Makefile accordingly.
+
 Directory Structure
 -------------------
 
